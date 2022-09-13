@@ -58,53 +58,53 @@ https://www.bilibili.com/video/BV1SK4y1N75Z?spm_id_from=333.999.0.0
 
  
 
-
+代码不免费！QQ号：1679232425或者2877135669 备注git中药大数据
 
 # 运行截图
 
-![](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\1.png)
+![](1.png)
 
-![2](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\2.png)
+![2](2.png)
 
-![3](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\3.png)
+![3](3.png)
 
-![4](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\4.png)
+![4](4.png)
 
-![5](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\5.png)
+![5](5.png)
 
-![6](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\6.png)
+![6](6.png)
 
-![7](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\7.png)
+![7](7.png)
 
-![8](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\8.png)
+![8](8.png)
 
-![9](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\9.png)
+![9](9.png)
 
-![10](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\10.png)
+![10](10.png)
 
-![11](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\11.png)
+![11](11.png)
 
-![12](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\12.png)
+![12](12.png)
 
-![13](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\13.png)
+![13](13.png)
 
-![14](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\14.png)
+![14](14.png)
 
-![15](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\15.png)
+![15](15.png)
 
-![16](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\16.png)
+![16](16.png)
 
-![17](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\17.png)
+![17](17.png)
 
-![18](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\18.png)
+![18](18.png)
 
-![19](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\19.png)
+![19](19.png)
 
-![20](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\20.png)
+![20](20.png)
 
-![21](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\21.png)
+![21](21.png)
 
-![22](H:\2022计算机毕业设计\Python+SpringBoot双语言爬虫热门话题定制\Python+Spark+LSTM中药可视化_推荐系统_协同过滤\宣传图\22.png)
+![22](22.png)
 
 
 
